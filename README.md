@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hola, soy Rubén 👋
 
-<!--
-**rsalcar966-coder/rsalcar966-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Web Developer | Arquitecturas Automatizadas & E-commerce
 
-Here are some ideas to get you started:
+Desarrollador enfocado en la creación de arquitecturas eficientes, escalables y en la automatización de procesos B2B/B2C. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 **Actualmente construyendo:** **Dynova**, una plataforma e-commerce automatizada basada en microservicios (Docker, Spring Boot, Angular, n8n, MariaDB).
+- 💼 **Próximamente:** Prácticas profesionales de desarrollo web (Enero 2027).
+- 💡 **Intereses:** Automatización de flujos de trabajo, arquitecturas backend, integración de APIs y despliegue en la nube.
+
+### 🛠️ Tech Stack & Herramientas
+
+**Backend & Bases de Datos:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Frontend:**
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**DevOps & Automatización:**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23FF6D5A.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![Linux Bash](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Herramientas:**
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<!-- Asegúrate de reemplazar "TU_USUARIO" en los dos enlaces de abajo con tu nombre de usuario real de GitHub -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</p>
