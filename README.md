@@ -37,8 +37,7 @@ Desarrollador enfocado en la creación de arquitecturas eficientes, escalables y
 
 ### 📊 GitHub Stats
 
-<!-- Asegúrate de reemplazar "TU_USUARIO" en los dos enlaces de abajo con tu nombre de usuario real de GitHub -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rsalcar966-coder&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsalcar966-coder&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
