@@ -37,10 +37,3 @@ Desarrollador enfocado en la creación de arquitecturas eficientes, escalables y
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rsalcar966-coder&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsalcar966-coder&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-</p>
