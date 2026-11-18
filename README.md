@@ -5,8 +5,7 @@
 Desarrollador enfocado en la creación de arquitecturas eficientes, escalables y en la automatización de procesos B2B/B2C. 
 
 - 🚀 **Actualmente construyendo:** **Dynova**, una plataforma e-commerce automatizada basada en microservicios (Docker, Spring Boot, Angular, n8n, MariaDB/MySQL).
-- 💼 **Próximamente:** Prácticas profesionales de desarrollo web (Enero 2027).
-- 💡 **Intereses:** Automatización de flujos de trabajo, arquitecturas backend, integración de APIs y despliegue en la nube.
+- 💡 **Intereses:** Automatización de flujos de trabajo, creación de agentes IA, arquitecturas backend, integración de APIs y despliegue en la nube.
 
 ### 🛠️ Tech Stack & Herramientas
 
